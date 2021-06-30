@@ -1,5 +1,6 @@
 // Java program to form a Spiral Matrix
 // from the given Array
+//time complexity O(n)
 
 package Prog;
 
